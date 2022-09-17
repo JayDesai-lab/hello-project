@@ -3,7 +3,7 @@
 num1 = 1.5
 num2 = 6.3
 
-# Add two numbers
+# Add two numbers changes done
 sum = num1 + num2
 
 # Display the sum
