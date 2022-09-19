@@ -1,6 +1,6 @@
 x = 'global'
 def f():
-    
+    global x
     x = 'enclosing'
     print (x)
     def g():
